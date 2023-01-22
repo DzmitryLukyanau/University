@@ -1,9 +1,10 @@
 package enums;
 public enum StudyProfile {
-    MEDICINE("РњРµРґРёС†РёРЅР°"),
-    COMPUTER_SCIENCE("РРЅС„РѕСЂРјР°С‚РёРєР°"),
-    MATHEMATICS("РњР°С‚РµРјР°С‚РёРєР°"),
-    PHYSICS("Р¤РёР·РёРєР°");
+    MEDICINE("Медицина"),
+    COMPUTER_SCIENCE("Информатика"),
+    LINGUISTICS("Лингвистика"),
+    MATHEMATICS("Математика"),
+    PHYSICS("Физика");
 
     private final String profileName;
 
